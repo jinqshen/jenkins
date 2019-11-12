@@ -1,2 +1,2 @@
 # jenkins
-jenkins tes
+jenkins test
